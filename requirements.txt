@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+jupyter
+ipykernel
+ase
+fairchem-core
