@@ -1,0 +1,4 @@
+system,energy_eV
+POSCAR_benzene,-74.69016170
+POSCAR_pd_benzaldehyde,-682.18212737
+POSCAR_pd_benzaldehyde_phenol,-765.07411465
